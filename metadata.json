@@ -1,0 +1,5 @@
+{
+  "name": "BS מסכם לבגרות בתנך",
+  "description": "Displays formatted study units from a provided text source.",
+  "requestFramePermissions": []
+}
